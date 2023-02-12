@@ -144,6 +144,8 @@ class _AnnimationExampleState extends State<AnnimationExample>
                   filePath: "assets/HomeMenu.json",
                   animationDuration: Duration(milliseconds: 800),
                   size: Size(boxW, boxW),
+
+
                   repeat: true,
                   clickAnimationDirection:
                       ClickAnimationDirection.forwardReverse,
@@ -188,6 +190,10 @@ class _AnnimationExampleState extends State<AnnimationExample>
 }
 
 ```
+
+
+https://user-images.githubusercontent.com/63334441/218315648-f00347e0-4fb5-4035-a253-b0e57b07cd40.mp4
+
 
 
 ## Additional information
